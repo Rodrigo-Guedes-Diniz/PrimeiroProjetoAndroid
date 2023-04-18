@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OurStreet</string>
+    <string name="SenhaMain">Senha</string>
+    <string name="NomeMain">Nome</string>
+    <string name="BotaoEntrar">Entrar</string>
+    <string name="BemVindo">Seja Bem Vindo(a) ao nosso projeto, Fulano</string>
+    <string name="BotaoSaibaMais">Saiba Mais</string>
+    <string name="Texto">Como podemos monitorar e identificar, de maneira escalável e em tempo real, os defeitos no
+         pavimento das vias do Recife, trazendo agilidade no direcionamento dessas demandas aos órgãos competentes?
+            Este é o OurStreet. Um aplicativo que mostra para você como estão as ruas e estradas nas quais você
+             pretente trafegar. O aplicativo funciona assim: Quando algum usuário vir uma ocorrência (buraco, obra,
+              etc..) ele pode reportar marcando-a no mapa para que os próximos a usar possam ficar sabendo e se
+               programarem com antecedência, desviando a rota ou saindo de casa mais cedo. Ou seja, se você se
+                deparar com uma ocorrência, pode ajudar todos os outros reportando. Mas não só outros usuários que
+                 você pode estar ajudando, mas também a prefeitura, que pode acessar o aplicativo e ficar sabendo em
+                  tempo real do que está acontecendo para mandar uma equipe resolver o problema, assim todos saem
+                   ganhando.</string>
+    <string name="BotaoVoltar">Voltar</string>
+</resources>

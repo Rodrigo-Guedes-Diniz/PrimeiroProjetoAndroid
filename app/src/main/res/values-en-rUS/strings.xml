@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OurStreet</string>
+    <string name="SenhaMain">Password</string>
+    <string name="NomeMain">Name</string>
+    <string name="BotaoEntrar">Log In</string>
+    <string name="BemVindo">Welcome to our project</string>
+    <string name="BotaoSaibaMais">Know More</string>
+    <string name="Texto">How can we monitor and identify, in a scalable and real-time way, the defects in the
+         pavement of the roads in Recife, bringing agility in directing these demands to the competent bodies?
+            This is OurStreet. An application that shows you how are the streets and roads on which you
+             intend to travel. The application works like this: When a user sees an occurrence (hole, work,
+              etc.) he can report it by marking it on the map so that the next users can find out about it and if
+               schedule in advance, diverting the route or leaving home earlier. That is, if you
+                come across an occurrence, you can help everyone else by reporting. But not only other users who
+                 you can be helping, but also the city hall, which can access the application and find out at
+                  real time of what is happening to send a team to solve the problem, so everyone leaves
+                   winning.</string>
+    <string name="BotaoVoltar">Back</string>
+</resources>
