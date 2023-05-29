@@ -12,6 +12,12 @@
         android:theme="@style/Theme.OurStreet"
         tools:targetApi="31">
         <activity
+            android:name=".ListaRuasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CadastroRuasActivity"
+            android:exported="false" />
+        <activity
             android:name=".SaibaMais"
             android:exported="false" />
         <activity

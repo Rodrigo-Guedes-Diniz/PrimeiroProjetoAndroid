@@ -27,6 +27,11 @@ class BemVindo : AppCompatActivity() {
                 binding.BemVindoFulano.setText("Seja Bem Vindo, $nome")
             }
 
+            binding.CadastroRuas?.setOnClickListener {
+                val j = Intent(this, CadastroRuasActivity::class.java)
+                startActivity(j)
+            }
+
         }
     }
 }

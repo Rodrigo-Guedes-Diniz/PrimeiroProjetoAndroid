@@ -42,4 +42,14 @@
         app:layout_constraintStart_toStartOf="@+id/BemVindoFulano"
         app:layout_constraintTop_toBottomOf="@+id/BemVindoFulano"
         app:layout_constraintVertical_bias="0.431" />
+
+    <Button
+        android:id="@+id/CadastroRuas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cadastrar Ruas"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/BotaoSaberMais"
+        app:layout_constraintStart_toStartOf="@+id/BotaoSaberMais"
+        app:layout_constraintTop_toBottomOf="@+id/BotaoSaberMais" />
 </androidx.constraintlayout.widget.ConstraintLayout>
